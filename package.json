@@ -1,0 +1,17 @@
+{
+  "name": "sign-up-entries",
+  "version": "1.0.0",
+  "description": "It Takes And Store Email Entries",
+  "main": "signup.js",
+  "scripts": {
+    "start": "node signup.js"
+},
+  "author": "vivek",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13",
+    "request": "^2.88.2"
+  }
+}
